@@ -2,7 +2,7 @@
 
 Final Project!
 
-Tomer Himi 204234454
+Author: Tomer Himi 
 
 Notes:
 1) In order to run the attached code you have to save the csv file 'diabetic_data' to your favorite folder or on your desktop.           Afterward, you have to change the string which represents the path to the file, depending on where you chose to save it.
